@@ -10,16 +10,19 @@ The purpose of this repository is to share my project with the community and rec
 <h2>Getting Started</h2>
 To get started with the Video-to-text converter, please follow the instructions in the repository.
 <h2>Installation</h2>
-Make sure Following things are installed before getting started :-
+<p>Make sure Following things are installed before getting started :-
 1.Whisper Ai
-2.FFmpeg
-After the installation of following packages just clone the repositary and run :
+2.FFmpeg </p>
+<p>After the installation of following packages just clone the repositary and run :</p>
+
+
 ```
 pip install -r requirment.txt 
 
 ```
 it will install all the required package to make sure application run on your system.
 Now just run 
+
 
 ```
 stremlitvideo.py 
