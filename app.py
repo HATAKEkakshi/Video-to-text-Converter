@@ -24,8 +24,8 @@ def video_to_transcript_with_whisper(video_path, audio_path):
   return result["text"]
 
 if __name__ == "__main__":
-  filename = "/Users/hemantkumar/Developer/hackathon/platform/videotranscribe/audio/videotest/song"
-  audio_path = f"/Users/hemantkumar/Developer/hackathon/platform/videotranscribe/audio/videotest/test.wav"
-  video_path = f"/Users/hemantkumar/Developer/hackathon/platform/videotranscribe/audio/videotest/song.mp4"
+  filename = "/Users/hemantkumar/Developer/Projects_ai/video-to-text-Converter/videotestsong"
+  audio_path = f"/Users/hemantkumar/Developer/Projects_ai/video-to-text-Converter/videotest/test.wav"
+  video_path = f"/Users/hemantkumar/Developer/Projects_ai/video-to-text-Converter/videotest/song.mp4"
   transcript = video_to_transcript_with_whisper(video_path, audio_path)
   print(transcript)
