@@ -11,7 +11,7 @@ The purpose of this repository is to share my project with the community and rec
 To get started with the Video-to-text converter, please follow the instructions in the repository.
 <h2>Installation</h2>
 <p>Make sure Following things are installed before getting started :-
-1.Whisper Ai
+<br>1.Whisper Ai<br>
 2.FFmpeg </p>
 <p>After the installation of following packages just clone the repositary and run :</p>
 
